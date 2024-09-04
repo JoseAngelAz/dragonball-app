@@ -4,8 +4,8 @@ Esta es una aplicación web que lista personajes del universo Dragon Ball utiliz
 
 **Asignatura:** Lenguaje de Programación  
 **TSU:** Servicios en la Nube  
-**Jose Angel:** Sustituye por tus nombres  
-**Azucena Mendez:** Sustituye por tus apellidos
+**Nombres:** José Angel  
+**Apellidos:** Azucena Méndez
 
 ## Requisitos
 
